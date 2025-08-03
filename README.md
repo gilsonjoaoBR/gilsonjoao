@@ -1,8 +1,10 @@
-# Olá!! Sou Gilson João Bem Vindo ao github
-🚀 Atualmente trabalho freelance como dev front-end
-🚑 Sou técnico de enfermagem
-👨‍🎓 Estudo Engenharia Civil
-![gilsonjoaoBR's Stats](https://github-readme-stats.vercel.app/api?username=gilsonjoaoBR&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
+## Olá!! Sou Gilson João bem Vindo ao github
+- 🚀 Atualmente trabalho freelance como dev front-end
+- 🚑 Sou técnico de enfermagem
+- 👨‍🎓 Estudo Engenharia Civil
+
+
+![gilsonjoaoBR's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gilsonjoaoBR&theme=cobalt&hide_border=true)
 
 
 
