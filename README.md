@@ -3,11 +3,10 @@
 - 🛸 Com foco em Inteligência Artificial
 - 👨‍🎓 Estudo Engenharia Civil
 
-
 <div>
-<a href="https://www.linkedin.com/in/gilson-jo%C3%A3o-6b775474">
-<img height="180em" src="![gilsonjoaoBR's Stats](https://github-readme-stats.vercel.app/api?username=gilsonjoaoBR&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)"/>
-<img height="180em" src="![gilsonjoaoBR's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonjoaoBR&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)"/>
+<a href="https://www.linkedin.com/in/gilson-jo%C3%A3o-6b775474/"</a>
+  <img height="180" src="![gilsonjoaoBR's Stats](https://github-readme-stats.vercel.app/api?username=gilsonjoaoBR&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)">
+  <img height="180" src="![gilsonjoaoBR's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonjoaoBR&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)">
 </div>
 
 
