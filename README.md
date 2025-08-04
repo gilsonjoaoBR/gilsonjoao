@@ -1,4 +1,4 @@
-## Olá!! Sou Gilson João bem Vindo ao meu github
+## Olá!! Sou Gilson João bem vindo ao meu Github
 🔧 1º Sargento da Marinha do Brasil | 🎓 Graduado em Ciência da Computação | 🎓 Estudante de Engenharia Civil📍 Apaixonado por lógica, otimização de processos, desenvolvimento front-end com foco em IA
 
 <div align="center">
@@ -8,15 +8,21 @@
   </a>
 </div>
 
-
-<div style="display: inline_block"><br>
+<div align=center style="display: inline_block"><br>
+<p>My progammming Languages</P>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##
-<div> 
+<div align=center>
+ <p>My design software</P>
+</div>
+
+##
+<div align=center> 
+    <p>My Social Networks</P>
   <a href="https://www.youtube.com/@TheGilsonjoao" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
@@ -32,5 +38,6 @@
 </div>
 
 ##
-
+<div align=center> 
 <img src="https://raw.githubusercontent.com/gilsonjoaoBR/gilsonjoao/output/snake.svg" alt="Snake animation" />
+</div>
