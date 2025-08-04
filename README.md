@@ -26,8 +26,8 @@
   <p><strong>🖌️ My Design Software</strong></p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" height="30" width="40" alt="Photoshop">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" height="30" width="40" alt="Illustrator">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/CorelDRAW_Logo.png" height="30" width="40" alt="CorelDRAW">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Canva_Logo.png" height="30" width="40" alt="Canva">
+  <img src="https://img.shields.io/badge/CorelDRAW-47A146?style=flat&logo=coreldraw&logoColor=white" height="25" alt="CorelDRAW">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" height="25" alt="Canva">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" height="30" width="40" alt="GIMP">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" height="30" width="40" alt="Sketch">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" width="40" alt="Figma">
@@ -41,7 +41,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" height="30" width="40" alt="jQuery">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" width="40" alt="Bootstrap">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original.svg" height="30" width="40" alt="Backbone.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/preact/preact-original.svg" height="30" width="40" alt="Preact">
   <img src="https://img.shields.io/badge/Alpine.js-77B6EA?style=flat&logo=alpinelinux&logoColor=white" height="30" alt="Alpine.js">
   <img src="https://img.shields.io/badge/Lit-324FFF?style=flat&logo=lit&logoColor=white" height="30" alt="Lit">
   <img src="https://img.shields.io/badge/Solid-4385f5?style=flat&logo=solid&logoColor=white" height="30" alt="Solid.js">
