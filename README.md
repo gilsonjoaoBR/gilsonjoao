@@ -1,5 +1,5 @@
 ## Olá!! Sou Gilson João bem vindo ao meu Github
-🔧 1º Sargento da Marinha do Brasil | 🎓 Graduado em Ciência da Computação | 🎓 Estudante de Engenharia Civil📍 Apaixonado por lógica, otimização de processos, desenvolvimento front-end com foco em IA
+🎓 Graduado em Ciência da Computação | 🎓 Estudante de Engenharia Civil📍 Apaixonado por lógica, otimização de processos, desenvolvimento front-end com foco em IA
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gilson-jo%C3%A3o-6b775474/">
